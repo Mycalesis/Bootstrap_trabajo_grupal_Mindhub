@@ -1,0 +1,20 @@
+.card {
+  border: -0 !important;
+}
+
+nav .bi {
+  font-size: 1vw;
+  color: black;
+}
+
+img{
+  width: 35vw;
+}
+
+#logo_buscador{
+  padding: 10vw;
+}
+
+.form-control {
+  border-radius: 3vw;
+}
